@@ -2115,7 +2115,8 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
-  width: 100%; }
+  width: 100%;
+  max-width: 1200px; }
   @media only screen and (max-width: 800px) {
     .layout-row {
       padding-left: 30px; } }
