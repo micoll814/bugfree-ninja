@@ -3537,6 +3537,10 @@ footer {
 .utility-borderDark {
   border-color: #232323; }
 
+.utility-primaryBorder {
+  border: 5px solid #aadbd0;
+  border-radius: 20px; }
+
 /* ==========================================================================
 	padding
  	========================================================================== */
